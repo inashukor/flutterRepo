@@ -1,6 +1,6 @@
 # qrcodelagii
 
-A new Flutter project.
+A new Flutter project.This is my first flutter project, qr code scanner with URL launcher
 
 ## Getting Started
 
